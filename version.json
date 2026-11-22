@@ -3,5 +3,5 @@
   "latest": "3.0",
   "url": "https://claude.ai/login",
   "message": "กรุณาดาวน์โหลดแบบฟอร์มใหม่",
-  "effective": { "3.0": "2026-12-01" }
+  "effective": { }
 }
